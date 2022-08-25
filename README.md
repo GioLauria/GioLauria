@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GioLauria
 - 👀 I’m interested in bug fixing
-- 🌱 I’m currently learning Javascript frameworks
+- 🌱 I’m currently learning aws cdk
 - 💞️ I’m looking to collaborate on C/PYTHON development
 - 📫 You can reach me at giovanni.lauria(+)github(@)gmail.com
 
